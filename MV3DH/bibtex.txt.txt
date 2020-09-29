@@ -1,0 +1,8 @@
+@inproceedings{caliskan2020multiview,
+  title={Multi-View Consistency Loss for Improved Single-Image 3D Reconstruction of Clothed People},
+  author={Caliskan, Akin and Mustafa, Armin and Imre, Evren and Hilton, Adrian},
+  booktitle={Asian Conference on Computer Vision},
+  pages={--},
+  year={2020},
+  organization={Springer}
+}
